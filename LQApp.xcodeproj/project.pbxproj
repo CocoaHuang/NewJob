@@ -1064,7 +1064,7 @@
 				INFOPLIST_FILE = LQApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.zhangying.com.LQApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.chaojfian.appTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				WARNING_CFLAGS = "-Wno-documentation";
@@ -1081,7 +1081,7 @@
 				INFOPLIST_FILE = LQApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.zhangying.com.LQApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.chaojfian.appTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				WARNING_CFLAGS = "-Wno-documentation";
