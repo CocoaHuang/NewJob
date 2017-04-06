@@ -1,0 +1,20 @@
+platform :ios, '8.0'
+target 'LQApp' do
+pod 'AFNetworking', '~> 3.1.0'
+pod 'SDWebImage'
+pod 'SVProgressHUD'
+pod 'MJRefresh', '~> 3.1.12'
+pod 'SDCycleScrollView'
+pod 'IQKeyboardManager'
+pod 'UITableView+FDTemplateLayoutCell'
+pod 'Masonry'
+pod 'YYModel'
+pod 'YYCache'
+pod 'YYImage'
+pod 'YYWebImage'
+pod 'YYText'
+pod 'YYDispatchQueuePool'
+pod 'YYAsyncLayer'
+pod 'YYCategories'
+end
+
